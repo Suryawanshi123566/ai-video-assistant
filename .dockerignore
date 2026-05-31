@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.mp4
+*.mp3
+*.wav
+chroma_db/
+vector_db/
+.DS_Store
+.vscode/
+downloads/
